@@ -52,7 +52,7 @@
   * < your answer here >
 
 * Show a log of your commit history
-  * < your answer here >
+  * < git log >
 
 * Roll back to a specific commit in history
   * < your answer here >

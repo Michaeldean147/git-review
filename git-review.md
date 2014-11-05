@@ -49,10 +49,10 @@
   * < git pull >
 
 * Show the history of a git repository
-  * < your answer here >
+  * < git log >
 
 * Show a log of your commit history
-  * < git log >
+  * < git checkout >
 
 * Roll back to a specific commit in history
   * < git reset --hard >

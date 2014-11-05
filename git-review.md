@@ -31,10 +31,10 @@
   * < git add >
 
 * Commit the contents of the staging area using the -m flag
-  * < git commit >
+  * < git commit -m >
 
 * Commit using the -m flag with a multi-line description
-  * < your answer here >
+  * < git commit -m $ >
 
 * Push your local repository to github (assume your remote is already set)
   * < git push >
